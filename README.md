@@ -25,18 +25,11 @@ This is a single-page Angular 18 application that demonstrates:
 ```bash
 npm install
 Start Development Server
-bash
-Copy
-Edit
 ng serve
 Visit: http://localhost:4200/
 
 🛠 Build for Production
-bash
-Copy
-Edit
 ng build
-Output will be in dist/browser/
 
 🌐 Deployment (Vercel)
 Vercel Configuration:
